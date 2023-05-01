@@ -5,11 +5,15 @@ const cors = require("cors")
 app.use(cors())
 const chefsData=require("./data/chefs.json")
 const recipeData=require("./data/recipes.json")
+const foodData=require("./data/foodData.json")
 app.get('/', (req, res) => {
     res.send('Hello World!')
 })
 app.get('/chefs', (req, res) => {
     res.send(chefsData)
+})
+app.get('/food', (req, res) => {
+    res.send(foodData)
 })
 app.get('/chefs/:id', (req, res) => {
     const id = req.params.id

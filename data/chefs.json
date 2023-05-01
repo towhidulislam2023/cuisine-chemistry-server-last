@@ -1,7 +1,7 @@
 [
   {
     "id": 1,
-    "chefPicture": "https://example.com/chef1-profile-picture.jpg",
+    "chefPicture": "https://img.freepik.com/free-photo/professional-male-chef-cook-white-uniform-cook-hat-pointing-sidewith-index-finger-looking-confident-standing-white-background_141793-20622.jpg?w=900&t=st=1682956564~exp=1682957164~hmac=ec330890d03239950f4655e5db6ee5563984a9eefeee89ad5a1175658cdc8ed0",
     "chefName": "John Doe",
     "yearsOfExperience": 8,
     "numRecipes": 50,
@@ -10,7 +10,7 @@
   },
   {
     "id": 2,
-    "chefPicture": "https://example.com/chef2-profile-picture.jpg",
+    "chefPicture": "https://img.freepik.com/free-photo/front-view-young-female-cook-white-cook-suit-posing-with-delighted-expression-pink-space-cook-photo_140725-29054.jpg?w=900&t=st=1682956616~exp=1682957216~hmac=0034d675735a0bc818eecbc74012c2ececc8ceb4c91339ca679bce3b41acd78e",
     "chefName": "Sara Lee",
     "yearsOfExperience": 12,
     "numRecipes": 80,
@@ -19,7 +19,7 @@
   },
   {
     "id": 3,
-    "chefPicture": "https://example.com/chef3-profile-picture.jpg",
+    "chefPicture": "https://img.freepik.com/free-photo/confident-young-male-cook-chef-uniform-standing-pointing-white-wall-isolated-orange-wall-with-copy-space_141793-101281.jpg?w=826&t=st=1682956533~exp=1682957133~hmac=c6d9a4335470b599b02ebf242592798c8c13642dd08d03331260237410c5fcbd",
     "chefName": "Michael Chen",
     "yearsOfExperience": 15,
     "numRecipes": 120,
@@ -28,7 +28,7 @@
   },
   {
     "id": 4,
-    "chefPicture": "https://example.com/chef4-profile-picture.jpg",
+    "chefPicture": "https://www.freepik.com/free-photo/female-chef-chopping-vegetables-kitchen_11228891.htm#query=chef%20women&position=13&from_view=search&track=ais#page=1&query=c&from_query=undefined&position=1&from_view=search&track=ais",
     "chefName": "Maria Garcia",
     "yearsOfExperience": 10,
     "numRecipes": 70,
@@ -37,7 +37,7 @@
   },
   {
     "id": 5,
-    "chefPicture": "https://example.com/chef5-profile-picture.jpg",
+    "chefPicture": "https://img.freepik.com/free-photo/portrait-smiling-chef-uniform_329181-675.jpg?w=900&t=st=1682956471~exp=1682957071~hmac=8a69a6945de8b03b7a9b7b47c638c0d2a3f3112aac5f5420e3e8698212326462",
     "chefName": "David Kim",
     "yearsOfExperience": 5,
     "numRecipes": 30,
@@ -46,7 +46,7 @@
   },
   {
     "id": 6,
-    "chefPicture": "https://example.com/chef6-profile-picture.jpg",
+    "chefPicture": "https://img.freepik.com/free-photo/happy-young-cook-uniform-holding-salad_171337-5342.jpg?w=900&t=st=1682956492~exp=1682957092",
     "chefName": "Jane Smith",
     "yearsOfExperience": 15,
     "numRecipes": 100,

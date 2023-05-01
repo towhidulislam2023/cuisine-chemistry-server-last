@@ -1,0 +1,56 @@
+[
+  {
+    "id": 1,
+    "chefPicture": "https://example.com/chef1-profile-picture.jpg",
+    "chefName": "John Doe",
+    "yearsOfExperience": 8,
+    "numRecipes": 50,
+    "likes": 250,
+    "chef_recipe_id": "CD-001"
+  },
+  {
+    "id": 2,
+    "chefPicture": "https://example.com/chef2-profile-picture.jpg",
+    "chefName": "Sara Lee",
+    "yearsOfExperience": 12,
+    "numRecipes": 80,
+    "likes": 600,
+    "chef_recipe_id": "CD-002"
+  },
+  {
+    "id": 3,
+    "chefPicture": "https://example.com/chef3-profile-picture.jpg",
+    "chefName": "Michael Chen",
+    "yearsOfExperience": 15,
+    "numRecipes": 120,
+    "likes": 1200,
+    "chef_recipe_id": "CD-003"
+  },
+  {
+    "id": 4,
+    "chefPicture": "https://example.com/chef4-profile-picture.jpg",
+    "chefName": "Maria Garcia",
+    "yearsOfExperience": 10,
+    "numRecipes": 70,
+    "likes": 400,
+    "chef_recipe_id": "CD-004"
+  },
+  {
+    "id": 5,
+    "chefPicture": "https://example.com/chef5-profile-picture.jpg",
+    "chefName": "David Kim",
+    "yearsOfExperience": 5,
+    "numRecipes": 30,
+    "likes": 100,
+    "chef_recipe_id": "CD-005"
+  },
+  {
+    "id": 6,
+    "chefPicture": "https://example.com/chef6-profile-picture.jpg",
+    "chefName": "Jane Smith",
+    "yearsOfExperience": 15,
+    "numRecipes": 100,
+    "likes": 1000,
+    "chef_recipe_id": "CD-006"
+  }
+]

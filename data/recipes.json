@@ -1,0 +1,342 @@
+[
+  {
+    "id": 1,
+    "_recipe_id": "CD-001",
+    "recipeName": "Grilled Chicken Salad",
+    "ingredients": [
+      "chicken breasts",
+      "lettuce",
+      "tomatoes",
+      "cucumbers",
+      "olive oil"
+    ],
+    "cookingMethod": "Grill the chicken breasts until cooked through, then chop them into bite-sized pieces. Chop the lettuce, tomatoes, and cucumbers and combine with the chicken in a large bowl. Drizzle with olive oil and toss to combine.",
+    "rating": 4.5,
+    "isFavorite": false
+  },
+  {
+    "id": 2,
+    "_recipe_id": "CD-001",
+    "recipeName": "Pesto Pasta",
+    "ingredients": ["pasta", "basil", "garlic", "pine nuts", "olive oil"],
+    "cookingMethod": "Cook the pasta according to package instructions. Meanwhile, blend together the basil, garlic, pine nuts, and olive oil in a food processor to make the pesto. Toss the cooked pasta with the pesto and serve.",
+    "rating": 4.2,
+    "isFavorite": false
+  },
+  {
+    "id": 3,
+    "_recipe_id": "CD-001",
+    "recipeName": "Beef Stir Fry",
+    "ingredients": ["beef", "broccoli", "carrots", "bell pepper", "soy sauce"],
+    "cookingMethod": "Slice the beef thinly and stir fry in a wok or large skillet until browned. Add the chopped vegetables and continue to stir fry until tender. Season with soy sauce and serve over rice.",
+    "rating": 4.8,
+    "isFavorite": false
+  },
+  {
+    "id": 4,
+    "_recipe_id": "CD-001",
+    "recipeName": "Chocolate Brownies",
+    "ingredients": ["chocolate", "butter", "sugar", "eggs", "flour"],
+    "cookingMethod": "Melt the chocolate and butter in a double boiler. In a separate bowl, whisk together the sugar and eggs until pale and fluffy. Add the melted chocolate mixture and stir to combine. Sift in the flour and fold gently to incorporate. Pour the batter into a greased baking dish and bake at 350°F for 20-25 minutes. Let cool before slicing and serving.",
+    "rating": 4.9,
+    "isFavorite": false
+  },
+  {
+    "id": 5,
+    "_recipe_id": "CD-002",
+    "recipeName": "Spicy Shrimp Tacos",
+    "ingredients": ["shrimp", "tortillas", "avocado", "lime", "spices"],
+    "cookingMethod": "Season the shrimp with spices and sauté in a pan until cooked through. Warm the tortillas in a separate pan or in the oven. Mash the avocado and add lime juice to make a quick guacamole. Assemble the tacos with the shrimp and guacamole, and enjoy!",
+    "rating": 4.7,
+    "isFavorite": false
+  },
+  {
+    "id": 6,
+    "_recipe_id": "CD-002",
+    "recipeName": "Mediterranean Chicken Skewers",
+    "ingredients": [
+      "chicken breast",
+      "red onion",
+      "bell pepper",
+      "lemon",
+      "olive oil"
+    ],
+    "cookingMethod": "Cut the chicken and vegetables into bite-sized pieces and thread onto skewers. Drizzle with olive oil and season with salt and pepper. Grill or broil until the chicken is cooked through and the vegetables are slightly charred. Squeeze fresh lemon juice over the skewers and serve.",
+    "rating": 4.5,
+    "isFavorite": false
+  },
+  {
+    "id": 7,
+    "_recipe_id": "CD-002",
+    "recipeName": "Pesto Pizza",
+    "ingredients": [
+      "pizza dough",
+      "pesto",
+      "mozzarella cheese",
+      "cherry tomatoes",
+      "arugula"
+    ],
+    "cookingMethod": "Roll out the pizza dough and spread a layer of pesto over the top. Sprinkle with shredded mozzarella cheese and sliced cherry tomatoes. Bake in a preheated oven at 450°F for 10-12 minutes or until the crust is golden brown. Top with fresh arugula before serving.",
+    "rating": 4.3,
+    "isFavorite": false
+  },
+  {
+    "id": 8,
+    "_recipe_id": "CD-002",
+    "recipeName": "Chocolate Chip Cookies",
+    "ingredients": [
+      "flour",
+      "butter",
+      "sugar",
+      "chocolate chips",
+      "vanilla extract"
+    ],
+    "cookingMethod": "Cream together the butter and sugar until light and fluffy. Beat in the eggs and vanilla extract. Add the flour and mix until just combined. Fold in the chocolate chips. Drop spoonfuls of dough onto a baking sheet and bake at 375°F for 10-12 minutes or until the edges are lightly golden. Let cool before serving.",
+    "rating": 4.8,
+    "isFavorite": false
+  },
+  {
+    "id": 9,
+    "_recipe_id": "CD-003",
+    "recipeName": "Beef Stroganoff",
+    "ingredients": [
+      "beef sirloin",
+      "onion",
+      "mushrooms",
+      "sour cream",
+      "beef broth",
+      "egg noodles"
+    ],
+    "cookingMethod": "Cut the beef into thin strips and brown in a large skillet over high heat. Add the onion and mushrooms and cook until softened. Add the beef broth and simmer until the sauce has thickened. Stir in the sour cream and cook until heated through. Serve over cooked egg noodles.",
+    "rating": 4.6,
+    "isFavorite": false
+  },
+  {
+    "id": 10,
+    "_recipe_id": "CD-003",
+    "recipeName": "Baked Salmon",
+    "ingredients": [
+      "salmon fillets",
+      "lemon",
+      "garlic",
+      "olive oil",
+      "salt",
+      "pepper"
+    ],
+    "cookingMethod": "Preheat the oven to 400°F. Rub the salmon fillets with garlic and drizzle with olive oil. Season with salt and pepper. Bake for 12-15 minutes or until the fish flakes easily with a fork. Squeeze fresh lemon juice over the top before serving.",
+    "rating": 4.4,
+    "isFavorite": false
+  },
+  {
+    "id": 11,
+    "_recipe_id": "CD-003",
+    "recipeName": "Tomato and Mozzarella Salad",
+    "ingredients": [
+      "cherry tomatoes",
+      "mozzarella cheese",
+      "fresh basil",
+      "balsamic vinegar",
+      "olive oil",
+      "salt",
+      "pepper"
+    ],
+    "cookingMethod": "Slice the cherry tomatoes in half and toss with diced mozzarella cheese and chopped fresh basil. Drizzle with balsamic vinegar and olive oil. Season with salt and pepper to taste.",
+    "rating": 4.7,
+    "isFavorite": false
+  },
+  {
+    "id": 12,
+    "_recipe_id": "CD-003",
+    "recipeName": "Chocolate Chip Cookies",
+    "ingredients": [
+      "flour",
+      "butter",
+      "sugar",
+      "chocolate chips",
+      "vanilla extract"
+    ],
+    "cookingMethod": "Cream together the butter and sugar until light and fluffy. Beat in the eggs and vanilla extract. Add the flour and mix until just combined. Fold in the chocolate chips. Drop spoonfuls of dough onto a baking sheet and bake at 375°F for 10-12 minutes or until the edges are lightly golden. Let cool before serving.",
+    "rating": 4.8,
+    "isFavorite": false
+  },
+  {
+    "id": 13,
+    "_recipe_id": "CD-004",
+    "recipeName": "Roasted Vegetables",
+    "ingredients": [
+      "zucchini",
+      "yellow squash",
+      "red onion",
+      "bell pepper",
+      "olive oil",
+      "garlic",
+      "salt",
+      "pepper"
+    ],
+    "cookingMethod": "Cut the vegetables into bite-sized pieces and toss with olive oil and minced garlic. Season with salt and pepper. Spread the vegetables out on a baking sheet and roast at 425°F for 20-25 minutes or until tender and slightly browned.",
+    "rating": 4.3,
+    "isFavorite": false
+  },
+  {
+    "id": 14,
+    "_recipe_id": "CD-004",
+    "recipeName": "Hummus",
+    "ingredients": [
+      "chickpeas",
+      "tahini",
+      "garlic",
+      "lemon",
+      "olive oil",
+      "salt",
+      "pepper"
+    ],
+    "cookingMethod": "Combine the chickpeas, tahini, minced garlic, and lemon juice in a food processor and blend until smooth. Slowly add olive oil while blending until the hummus is creamy. Season with salt and pepper to taste.",
+    "rating": 4.8,
+    "isFavorite": false
+  },
+  {
+    "id": 15,
+    "_recipe_id": "CD-004",
+    "recipeName": "Pesto Pasta",
+    "ingredients": ["pasta", "basil", "garlic", "pine nuts", "olive oil"],
+    "cookingMethod": "Cook the pasta according to package instructions. Meanwhile, blend together the basil, garlic, pine nuts, and olive oil in a food processor to make the pesto. Toss the cooked pasta with the pesto and serve.",
+    "rating": 4.2,
+    "isFavorite": false
+  },
+  {
+    "id": 16,
+    "_recipe_id": "CD-004",
+    "recipeName": "Greek Salad",
+    "ingredients": [
+      "cucumbers",
+      "tomatoes",
+      "red onion",
+      "feta cheese",
+      "olives",
+      "olive oil",
+      "red wine vinegar"
+    ],
+    "cookingMethod": "Chop the cucumbers, tomatoes, and red onion into bite-sized pieces and place in a large bowl. Add crumbled feta cheese and sliced olives. Drizzle with olive oil and red wine vinegar, and toss to combine.",
+    "rating": 4.5,
+    "isFavorite": false
+  },
+  {
+    "id": 17,
+    "_recipe_id": "CD-005",
+    "recipeName": "Pesto Chicken",
+    "ingredients": [
+      "chicken breasts",
+      "pesto",
+      "mozzarella cheese",
+      "tomatoes"
+    ],
+    "cookingMethod": "Spread pesto over the chicken breasts, then top with sliced tomatoes and shredded mozzarella cheese. Bake in a preheated oven at 375°F for 25-30 minutes or until the chicken is cooked through and the cheese is melted and bubbly.",
+    "rating": 4.2,
+    "isFavorite": false
+  },
+  {
+    "id": 18,
+    "_recipe_id": "CD-005",
+    "recipeName": "Pancakes",
+    "ingredients": [
+      "flour",
+      "sugar",
+      "baking powder",
+      "milk",
+      "eggs",
+      "butter",
+      "maple syrup"
+    ],
+    "cookingMethod": "Mix together flour, sugar, and baking powder in a bowl. In a separate bowl, whisk together milk, eggs, and melted butter. Pour the wet ingredients into the dry ingredients and stir until just combined. Heat a non-stick pan over medium heat and pour 1/4 cup of batter onto the pan for each pancake. Cook until bubbles form on the surface, then flip and cook for an additional minute. Serve with maple syrup.",
+    "rating": 4.9,
+    "isFavorite": false
+  },
+  {
+    "id": 19,
+    "_recipe_id": "CD-005",
+    "recipeName": "Beef Tacos",
+    "ingredients": [
+      "ground beef",
+      "taco seasoning",
+      "taco shells",
+      "lettuce",
+      "tomatoes",
+      "cheddar cheese"
+    ],
+    "cookingMethod": "Brown the ground beef in a large skillet over medium-high heat. Drain off any excess fat. Add taco seasoning and cook for an additional 5 minutes. Heat the taco shells in the oven according to package instructions. Assemble the tacos with the beef, lettuce, tomatoes, and shredded cheddar cheese.",
+    "rating": 4.7,
+    "isFavorite": false
+  },
+  {
+    "id": 20,
+    "_recipe_id": "CD-005",
+    "recipeName": "Pulled Pork Sandwiches",
+    "ingredients": ["pork shoulder", "bbq sauce", "hamburger buns", "coleslaw"],
+    "cookingMethod": "Rub the pork shoulder with bbq seasoning and place in a slow cooker. Pour bbq sauce over the top and cook on low for 8-10 hours. Shred the pork with a fork and serve on hamburger buns with coleslaw.",
+    "rating": 4.5,
+    "isFavorite": false
+  },
+  {
+    "id": 21,
+    "_recipe_id": "CD-006",
+    "recipeName": "Classic Margherita Pizza",
+    "ingredients": [
+      "pizza dough",
+      "tomato sauce",
+      "mozzarella cheese",
+      "fresh basil"
+    ],
+    "cookingMethod": "Preheat the oven to 450 degrees F. Roll out the pizza dough and place on a pizza stone or baking sheet. Spread tomato sauce over the dough, leaving a small border around the edges. Top with mozzarella cheese and bake for 10-12 minutes. Sprinkle with fresh basil before serving.",
+    "rating": 4.8,
+    "isFavorite": true
+  },
+  {
+    "id": 22,
+    "_recipe_id": "CD-006",
+    "recipeName": "Spaghetti Carbonara",
+    "ingredients": [
+      "spaghetti",
+      "bacon",
+      "eggs",
+      "parmesan cheese",
+      "black pepper"
+    ],
+    "cookingMethod": "Cook spaghetti according to package instructions. In a separate pan, cook bacon until crispy. Beat eggs and parmesan cheese together in a bowl. Once spaghetti is cooked, drain and add to the pan with the bacon. Remove from heat and quickly stir in the egg mixture. The heat from the spaghetti will cook the eggs. Add black pepper to taste and serve.",
+    "rating": 4.6,
+    "isFavorite": false
+  },
+  {
+    "id": 23,
+    "_recipe_id": "CD-006",
+    "recipeName": "Chicken Curry",
+    "ingredients": [
+      "chicken breast",
+      "curry powder",
+      "coconut milk",
+      "onion",
+      "garlic",
+      "ginger",
+      "rice"
+    ],
+    "cookingMethod": "Heat oil in a large pan and cook chopped onion until softened. Add minced garlic and ginger and cook for another minute. Add curry powder and cook for a minute until fragrant. Add chicken breast and cook until browned on all sides. Add coconut milk and simmer for 15-20 minutes until chicken is cooked through. Serve over rice.",
+    "rating": 4.4,
+    "isFavorite": false
+  },
+  {
+    "id": 24,
+    "_recipe_id": "CD-006",
+    "recipeName": "Beef Tacos",
+    "ingredients": [
+      "ground beef",
+      "taco seasoning",
+      "taco shells",
+      "lettuce",
+      "tomato",
+      "shredded cheese",
+      "sour cream"
+    ],
+    "cookingMethod": "Cook ground beef in a pan until browned. Add taco seasoning and cook according to package instructions. Assemble tacos by filling taco shells with lettuce, tomato, beef, shredded cheese, and sour cream.",
+    "rating": 4.2,
+    "isFavorite": false
+  }
+]

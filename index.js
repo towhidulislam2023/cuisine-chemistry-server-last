@@ -11,6 +11,11 @@ app.get('/', (req, res) => {
 app.get('/chefs', (req, res) => {
     res.send(chefsData)
 })
+app.get('/chefs/:id', (req, res) => {
+    const id = req.params.id
+    const singlaChefData=chefsData.find(Cdata=>Cdata.chef_recipe_id===id)
+    res.send(singlaChefData)
+})
 app.get('/recipe/:id', (req, res) => {
     const id=req.params.id
     const chefsRecipes=recipeData.filter(recipe=>recipe._recipe_id===id)

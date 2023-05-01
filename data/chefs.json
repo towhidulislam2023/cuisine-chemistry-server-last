@@ -6,6 +6,7 @@
     "yearsOfExperience": 8,
     "numRecipes": 50,
     "likes": 250,
+     "description": "With 8 years of experience and 50 recipes under his belt, John is a seasoned chef known for his creative culinary twists that leave his diners wanting more.",
     "chef_recipe_id": "CD-001"
   },
   {
@@ -15,6 +16,7 @@
     "yearsOfExperience": 12,
     "numRecipes": 80,
     "likes": 600,
+    "description": "As a chef with 12 years of experience, Sara has created 80 mouth-watering recipes that have garnered 600 likes from her customers.",
     "chef_recipe_id": "CD-002"
   },
   {
@@ -24,6 +26,7 @@
     "yearsOfExperience": 15,
     "numRecipes": 120,
     "likes": 1200,
+    "description": "With 15 years of experience, Michael has created 120 amazing recipes that have earned him a whopping 1200 likes from his customers.",
     "chef_recipe_id": "CD-003"
   },
   {
@@ -33,6 +36,7 @@
     "yearsOfExperience": 10,
     "numRecipes": 70,
     "likes": 400,
+    "description": "With 10 years of experience, Maria has created 70 delectable recipes that have earned her 400 likes from her customers.",
     "chef_recipe_id": "CD-004"
   },
   {
@@ -42,6 +46,7 @@
     "yearsOfExperience": 5,
     "numRecipes": 30,
     "likes": 100,
+    "description": "With 5 years of experience, David has created 30 tasty recipes that have earned him 100 likes from his customers.",
     "chef_recipe_id": "CD-005"
   },
   {
@@ -51,6 +56,7 @@
     "yearsOfExperience": 15,
     "numRecipes": 100,
     "likes": 1000,
+    "description": "With 15 years of experience, Jane has created 100 scrumptious recipes that have earned her 1000 likes from her customers.",
     "chef_recipe_id": "CD-006"
   }
 ]
